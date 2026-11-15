@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🎀 Hi, Karl ✨
 
-<!--
-**tenoriokarlmax-ops/tenoriokarlmax-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *A pretty girly pop 🐰 with a big big big dream. 💖*
 
-Here are some ideas to get you started:
+### 💻 My Language Knowledge
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FFD1DC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FFD1DC?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💅 About Me
+- 🎀 Currently working on: **Gauss Appy**
+- 🐰 Chasing a big big big dream!
+- ✨ System coquette magic only.
+
+---
+*Main character energy only. 🎀🐰✨*
