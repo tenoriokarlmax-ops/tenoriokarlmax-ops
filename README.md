@@ -1,4 +1,4 @@
-# 🎀 Hi, Karl ✨
+# 🎀 Hiii! This is Karlie ✨
 
 > *A pretty girly pop 🐰 with a big big big dream. 💖*
 
