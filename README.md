@@ -40,7 +40,7 @@
 
 - 🎀 **Currently working on:** Gauss Appy
 - 🐰 **Chasing a big big big dream!**
-- ✨ System coquette magic only.
+- ✨ **System coquette magic only.**
 
 <br>
 
