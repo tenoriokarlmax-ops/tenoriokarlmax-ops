@@ -16,7 +16,7 @@
 **🎨 Front End**
 <p>
   <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logoColor=black" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=for-the-badge&logoColor=black" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=for-the-badge&logoColor=black" alt="CSS" />
 </p>
 
 **⚙️ Back End**
